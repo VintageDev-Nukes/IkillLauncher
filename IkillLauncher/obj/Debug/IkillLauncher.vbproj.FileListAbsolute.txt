@@ -1,0 +1,16 @@
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\bin\Debug\IkillLauncher.exe.config
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\bin\Debug\IkillLauncher.exe
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\bin\Debug\IkillLauncher.pdb
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\bin\Debug\IkillLauncher.xml
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.exe
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.xml
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.pdb
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.vbprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.frmMain.resources
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.frmMinecraft.resources
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.frmModpacks.resources
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.frmModPacks_Web.resources
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.frmSplash.resources
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.Resources.resources
+C:\Users\Alvaro\Documents\IkillLauncher\IkillLauncher\obj\Debug\IkillLauncher.AboutBox1.resources
